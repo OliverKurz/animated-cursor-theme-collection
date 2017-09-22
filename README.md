@@ -18,7 +18,7 @@ $ sudo make install
 
 3. If the cursors haven't changed and the Window Manager is Compiz Reloaded, in CCSM General Settings, type in the name of the cursor theme.
 
-* Uninstalling the cursor themes can be done by cding as administrator into the /usr/share/icons directory and searching for folders to delete with the tag _Cursors.
+* Uninstalling the cursor themes can be done by `cd`ing as administrator into the /usr/share/icons directory, searching for folders with the tag _Cursors, and carefully deleteing the matches.
 
 Known Issues
 ------------
