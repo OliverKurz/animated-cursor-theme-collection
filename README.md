@@ -15,11 +15,11 @@ $ make
 $ sudo make install
 ```
 
-3. In your Desktop Environments Appearance Settings select the a cursor theme then apply and logout.
+3. In the Desktop Environment's Appearance Settings select the cursor theme, apply it, and logout.
 
-4. If your cursors haven't changed and you're by chance running Compiz Reloaded, in CCSM General Settings, type in the name of the cursor theme.
+4. If the cursors haven't changed and you're by chance running Compiz Reloaded, in CCSM General Settings, type in the name of the cursor theme.
 
-Should you choose to uninstall one or all of these cursor themes, for now this can be done by cding into the /usr/share/icons directory and searching for folders to delete with the tag _Cursors.
+5. Should you choose to uninstall one or all of these cursor themes, for now this can be done by cding into the /usr/share/icons directory and searching for folders to delete with the tag _Cursors.
 
 Known Issues
 ------------
