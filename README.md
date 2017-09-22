@@ -28,4 +28,5 @@ Known Issues
 Credits
 --------
 Original cursor designs by Mr GRiM, Razorsedge and others. Visit [Virtual Customs](http://virtualcustoms.net/forum.php) for more.
+
 Thanks to the MATE cursors for cursor scheme template and context.
