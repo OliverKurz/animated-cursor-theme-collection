@@ -1,6 +1,6 @@
 Animated Cursor Theme Collection
 ================================
-This is a complete collection of X11 animated cursor ports.
+This is a complete collection of X11 animated cursor themes.
 
 ![Animated_Cursor_Theme_Collection](https://github.com/OliverKurz/animated-cursor-theme-collection/raw/master/images/Preview.png)
 
