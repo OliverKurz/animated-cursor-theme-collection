@@ -23,7 +23,7 @@ $ sudo make install
 
 Known Issues
 ------------
-1. Packages do not uninstall using sudo make uninstall.
+1. Cursor themes do not uninstall using `sudo make uninstall`.
 
 Credits
 --------
