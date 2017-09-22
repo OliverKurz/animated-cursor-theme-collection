@@ -8,7 +8,7 @@ Installation Walkthrough
 ------------------------
 1. Install a Linux distribution that supports a Desktop Environment.
 
-2. cd into the directory this archive is cloned or copied into and type the following commands:
+2. cd into the directory this archive was cloned or copied into and type the following commands:
 
 ```
 $ ./autogen.sh
