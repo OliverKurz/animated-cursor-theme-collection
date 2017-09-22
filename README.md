@@ -6,7 +6,7 @@ This is a complete collection of X11 animated cursor ports.
 
 Installation Walkthrough
 ------------------------
-1. cd into the directory the archive was cloned or copied to and enter the commands:
+1. `cd` into the directory the archive was cloned or copied to and enter the commands:
 
 ```
 $ ./autogen.sh
@@ -18,14 +18,14 @@ $ sudo make install
 
 3. If the cursors haven't changed and the Window Manager is Compiz Reloaded, in CCSM General Settings, type in the name of the cursor theme.
 
-* Uninstalling the cursor themes can be done by `cd`ing as administrator into the /usr/share/icons directory, searching for folders with the tag _Cursors, and carefully deleteing the matches.
+* Uninstalling the cursor themes can be achieved by `cd`ing as admin into `/usr/share/icons` and searching for folders to delete with the name _Cursors.
 
 Known Issues
 ------------
-1. Cursor themes don't uninstall using `sudo make uninstall`.
+* Cursor themes don't uninstall using `sudo make uninstall`.
 
 Credits
 --------
 Original cursor designs by Mr GRiM, Razorsedge and others. Visit [Virtual Customs](http://virtualcustoms.net/forum.php) for more.
 
-Thanks to the MATE cursors for cursor scheme layout.
+MATE cursors for the cursor scheme.
