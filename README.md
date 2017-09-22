@@ -6,7 +6,7 @@ This is a complete collection of X11 animated cursor ports.
 
 Installation Walkthrough
 ------------------------
-1. cd to the directory that this archive was cloned or copied into and enter the following commands:
+1. cd into the directory that this archive was cloned or copied to and enter the following commands:
 
 ```
 $ ./autogen.sh
