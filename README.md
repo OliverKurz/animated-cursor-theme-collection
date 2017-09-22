@@ -3,6 +3,7 @@ Animated Cursor Theme Collection
 This is a complete collection of my X11 animated cursor ports.
 
 ![Animated_Cursor_Theme_Collection](https://github.com/OliverKurz/animated-cursor-theme-collection/raw/master/images/Preview.png)
+
 Installation Walkthrough
 ------------------------
 1. Install a Linux distribution that supports a Desktop Environment.
